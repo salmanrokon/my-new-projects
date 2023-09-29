@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "cover": "../src/assets/images/2.png",
+    "title": "The Mystery of the Hidden Treasure",
+    "author": "John Smith",
+    "author_img": "../src/assets/images/boy1.png",
+    "date": "2023-09-28",
+    "reading_time": 45,
+    "hashtag": ["mystery", "adventure", "treasure"]
+  },
+  {
+    "id": "2",
+    "cover": "../src/assets/images/3.png",
+    "title": "Cooking Adventures: A Culinary Journey",
+    "author": "Emily Johnson",
+    "author_img": "../src/assets/images/boy2.png",
+    "date": "2023-09-27",
+    "reading_time": 30,
+    "hashtag": ["cooking", "foodie", "recipes"]
+  },
+  {
+    "id": "3",
+    "cover": "../src/assets/images/1.jpg",
+    "title": "Exploring the Cosmos: Beyond the Stars",
+    "author": "David Carter",
+    "author_img": "../src/assets/images/girl1.jpg",
+    "date": "2023-09-26",
+    "reading_time": 60,
+    "hashtag": ["space", "astronomy", "science"]
+  },
+  {
+    "id": "4",
+    "cover": "../src/assets/images/4.jpg",
+    "title": "Gardening for Beginners: Green Thumb Guide",
+    "author": "Alice Brown",
+    "author_img": "../src/assets/images/girl2.jpg",
+    "date": "2023-09-25",
+    "reading_time": 40,
+    "hashtag": ["gardening", "plants", "nature"]
+  },
+  {
+    "id": "5",
+    "cover": "../src/assets/images/4.jpg",
+    "title": "Tech Trends 2023: The Future of Innovation",
+    "author": "Michael Anderson",
+    "author_img": "../src/assets/images/boy2.png",
+    "date": "2023-09-24",
+    "reading_time": 20,
+    "hashtag": ["technology", "innovation", "future"]
+  }
+]
